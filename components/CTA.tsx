@@ -73,9 +73,10 @@ const CTA = () => {
             </h2>
             <p className="section-paragraph">
               Descubra como uma inteligência artificial pode mudar o destino do seu negócio.
+              preencha o formulario para um projeto personalizado!
             </p>
             <div className="flex justify-center mt-8">
-              <a href="https://wa.me/5567996169420?text=ol%C3%A1%20Gostaria%20de%20saber%20mais%20sobre%20a%20inteligencia%20articial"><ShinyButton>Quero minha I.A</ShinyButton></a>
+              <a href="https://form.respondi.app/0C4eaZ9K"><ShinyButton>Quero minha I.A</ShinyButton></a>
             </div>
           </div>
         </motion.div>
